@@ -130,3 +130,7 @@ dmypy.json
 
 # Excluding Data directory
 Data/
+
+# Excluding other non-essential things
+.deepnote/
+init.ipynb
