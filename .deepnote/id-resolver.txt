@@ -14,3 +14,4 @@ afd99cd2-9f7f-4168-b4a1-ae585a2f34ea,/Data/Index
 33d95e6f-473c-4c43-a5d7-ef99986e4df5,/Data/Palm/untitled
 691055b0-81fc-45ab-a6ce-d537094d69f0,/.gitignore
 ac85b1e3-7934-4349-bd50-b534c62d8d93,/README.md
+1cf9a5fc-a20f-4e2f-846a-50b3ceac47d8,/requirements.txt
