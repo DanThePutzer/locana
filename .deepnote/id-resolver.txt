@@ -1,0 +1,16 @@
+e107433d-28c5-4d81-a36c-2dc08b8cacba,/init.ipynb
+1b5dc682-6efd-4fd5-8d17-02d88e9833d0,/Exploration.ipynb
+0623328d-92ec-4cfa-ae62-0c60d61b5fcc,/Data
+8fc18d86-eddf-4bcc-a380-0a300ac49d9b,/Data/Palm
+8ec4f406-2636-443d-8520-a04b51703c9c,/Data/L
+352d2ffb-2d7d-4eea-b3bb-f48944c21de6,/Data/Fist
+7b513115-be59-40d4-8a30-89fc2941213d,/Data/Fist_Moved
+cb7cd968-ef71-4d27-b6a0-4bd852e6f83d,/Data/Thumb
+afd99cd2-9f7f-4168-b4a1-ae585a2f34ea,/Data/Index
+4a5fb236-aef6-4857-8e37-6d83790f28fd,/Data/Ok
+607062a8-07f5-4193-b278-0077011a9bf1,/Data/Palm_Moved
+4608acd8-fe21-410e-97c7-3d39ffdb8663,/Data/C
+0f50d97a-1628-4fc8-981f-80b2ca88d353,/Data/Down
+33d95e6f-473c-4c43-a5d7-ef99986e4df5,/Data/Palm/untitled
+691055b0-81fc-45ab-a6ce-d537094d69f0,/.gitignore
+ac85b1e3-7934-4349-bd50-b534c62d8d93,/README.md
