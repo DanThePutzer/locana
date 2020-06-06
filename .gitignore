@@ -131,7 +131,10 @@ dmypy.json
 # Excluding data directories
 Data/
 Raw/
+Pickles/
 
 # Excluding other non-essential things
 .deepnote
 init.ipynb
+Experimental.ipynb
+*.h5
