@@ -132,6 +132,8 @@ dmypy.json
 Data/
 Raw/
 Pickles/
+Real/
+Real/Fail
 
 # Excluding other non-essential things
 .deepnote
