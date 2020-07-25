@@ -1,0 +1,7 @@
+tensorflow
+pandas
+numpy
+tqdm
+Pillow
+scikit-learn
+dask
